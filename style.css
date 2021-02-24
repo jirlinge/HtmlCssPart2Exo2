@@ -1,0 +1,91 @@
+body{
+    width: 60%;
+}
+
+body .section1{
+    height: 20px;
+    width: 100%;
+
+}
+body .section1 .Vert{
+    height: 20px;
+    width: 80%;
+    background-color: #2ecc71;
+    float: left;
+}
+
+body .section1 .Bleu{
+    float: right;
+    height: 20px;
+    width: 20%;
+    background-color: #2980b9;
+}
+
+.section2{
+    width: 100%;
+    height: 40px;
+}
+
+.section2 .partieRouge{
+    width: 33%;
+    background-color: #e74c3c;
+    float: left;
+    height: 40px;
+}
+
+.section2 .partie5Couleurs{
+    width: 67%;
+    height: 40px;
+    float: right;
+}
+
+.Orange{
+    width: 50%;
+    height: 20px;
+    float: left;
+    background-color: #e67e22;
+}
+.Gris{
+    width: 50%;
+    height: 20px;
+    float: right;
+    background-color:#95a5a6;
+}
+
+.jauneCyanMarron{
+    width: 100%;
+    height: 20px;
+    float: right;
+}
+
+.jauneCyanMarron .Jaune{
+    
+    width: 33%;
+    background-color: #f39c12;
+    height: 20px;
+    float: left;
+}
+
+jauneCyan{
+    width: 66%;
+    float: left;
+}
+.jauneCyanMarron .Cyan{
+    width: 33%;
+    background-color: #16a085;
+    height: 20px;
+    float: left;
+    
+}
+.jauneCyanMarron .Marron{
+    width: 34%;
+    background-color: #d35400;
+    height: 20px;
+    float: right;
+}
+
+.section3{
+    width: 100%;
+    height: 60px;
+    background-color: #2c3e50;
+}
